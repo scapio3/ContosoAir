@@ -1,3 +1,4 @@
+[![Build Status](https://scapio3.visualstudio.com/ContosoAir/_apis/build/status/scapio3.ContosoAir?branchName=master)](https://scapio3.visualstudio.com/ContosoAir/_build/latest?definitionId=14&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
